@@ -34,4 +34,4 @@ These visualizations help understand acoustic structures in vocalizations.
 <img src="Graphs/3D Spectral Point Cloud.png" width=1000 >
 <img src="Graphs/Dynamic Harmonic Map (Audio-Synced 2D).png" width=1000 >
 <img src="Graphs/3D Spawn Visualizer (Audio-Synced).png" width=1000 >
-<img src="The Harmonic Helix.png" width=1000 >
+<img src="Graphs/The Harmonic Helix.png" width=1000 >
