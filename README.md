@@ -1,6 +1,6 @@
 # Audio Visual Analyzer – Nightingale Chirping Analysis
 
-This project performs **audio signal processing and visualization** using a recording of **nightingale chirping**.  
+This project performs **audio signal processing and visualization** using a recording of **nightingale chirping**. You can upload any other audio file to analyse. 
 The analysis extracts time-domain and frequency-domain features and generates multiple graphical outputs to interpret acoustic patterns.
 
 The project is divided into **two Jupyter notebooks**, where the workflow is split into preprocessing and advanced visualization.
